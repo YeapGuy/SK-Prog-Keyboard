@@ -7,7 +7,7 @@ xkb_symbols "sk-prog" {
     key <AE01>	{ [         1,     exclam,        U00b9,     NoSymbol ]	};
     key <AE02>	{ [         2,         at,        U00b2,     NoSymbol ]	};
     key <AE03>	{ [         3, numbersign,        U00b3,     NoSymbol ]	};
-    key <AE04>	{ [         4,     dollar,     NoSymbol,     NoSymbol ]	};
+    key <AE04>	{ [         4,     dollar,        U00a3,     NoSymbol ]	};
     key <AE05>	{ [         5,    percent,        U20ac,     NoSymbol ]	};
     key <AE06>	{ [         6, asciicircum,       U00a7,     NoSymbol ] };
     key <AE07>	{ [         7,  ampersand,        U00b6,     NoSymbol ]	};
